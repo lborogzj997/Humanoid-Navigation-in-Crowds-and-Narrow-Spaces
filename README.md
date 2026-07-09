@@ -45,7 +45,7 @@ The same core idea applies to both:
 |-------|-------------|
 | [Simulation — social corridor]() | Humanoid navigates a corridor with a pedestrian; adapts path and body orientation |
 | [Simulation — narrow passage]() | Sideways passing through a tight gap |
-| https://github.com/user-attachments/assets/d21c1aa0-2a7c-412d-a6a3-364e17943717| Unitree G1 navigation with LiDAR SLAM and global planning |
+| https://github.com/user-attachments/assets/f0037cd3-5579-4f74-abac-a10f965a8815| Unitree G1 navigation with LiDAR SLAM and global planning |
 
 *(Links will be added when videos are uploaded.)*
 
