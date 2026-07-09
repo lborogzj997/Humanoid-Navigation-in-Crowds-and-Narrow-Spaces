@@ -45,6 +45,8 @@ Sideways passing through a tight gap
 
 Humanoid navigates a corridor with a pedestrian; adapts path and body orientation
 
+https://github.com/user-attachments/assets/7f0e76d5-9efe-4906-befb-da844962b17f
+
 Unitree G1 navigation with LiDAR SLAM and global planning
 
 https://github.com/user-attachments/assets/2998d870-ffa4-4e5b-9e18-ad7cf0840d31
