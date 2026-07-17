@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/8a1bcf2b-ba83-4338-b83d-68e8d7142654
+
+
+
 # Humanoid Navigation in Crowds&Narrow Spaces
 Navigation framework for bipedal humanoid robots in crowded and narrow environments, featuring adaptive body orientation and sideways passing. Includes MuJoCo demos and Unitree G1 deployment.
 
