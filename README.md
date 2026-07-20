@@ -57,6 +57,10 @@ Local planning using hybrid A*
 
 https://github.com/user-attachments/assets/fa13414a-9857-4758-9378-4430fc66925c
 
+Adaptive Local planning 
+
+https://github.com/user-attachments/assets/872429d7-e9e8-496e-9328-a606a1c9695a
+
 ---
 
 ## Platform
