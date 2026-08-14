@@ -76,6 +76,54 @@ The same core idea applies to both:
   </tr>
 </table>
 
+## Demo Videos
+
+<table>
+  <!-- Simulation -->
+  <tr>
+    <td colspan="3" align="left">
+      <h3>🎮 Simulation Demos</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" colspan="2">
+      <h4>🚶‍♂️ Sideways Passing Through Corridors</h4>
+      <video src="https://github.com/user-attachments/assets/e4cf1782-c612-44ec-906f-b2d3d89e4d40" controls width="100%"></video>
+      <br>
+      <em>Straight & curved corridors</em>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>👥 Corridor Navigation with Pedestrian</h4>
+      <video src="https://github.com/user-attachments/assets/7f0e76d5-9efe-4906-befb-da844962b17f" controls width="100%"></video>
+      <br>
+      <em>Adapts path and body orientation</em>
+    </td>
+  </tr>
+
+  <!-- Real Deployment -->
+  <tr>
+    <td colspan="3" align="left">
+      <h3>🤖 Real Robot Deployment</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <h4> Unitree G1 Navigation</h4>
+      <video src="https://github.com/user-attachments/assets/027c076f-f5c4-48d4-bcd6-ede91fb5148e" controls width="100%"></video>
+      <br>
+      <em>LiDAR SLAM & global planning</em>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <h4>🗺️ Hybrid A* Local Planning</h4>
+      <video src="https://github.com/user-attachments/assets/fa13414a-9857-4758-9378-4430fc66925c" controls width="100%"></video>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <h4>🔄 Adaptive Local Planning</h4>
+      <video src="https://github.com/user-attachments/assets/872429d7-e9e8-496e-9328-a606a1c9695a" controls width="100%"></video>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Platform
