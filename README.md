@@ -72,17 +72,16 @@ The same core idea applies to both:
   </tr>
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <h4> Unitree G1 Navigation</h4>
+      <h4>  Global planning </h4>
       <video src="https://github.com/user-attachments/assets/027c076f-f5c4-48d4-bcd6-ede91fb5148e" controls width="100%"></video>
       <br>
-      <em>LiDAR SLAM & global planning</em>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <h4>🗺️ Hybrid A* Local Planning</h4>
+      <h4> Hybrid A* Local Planning </h4>
       <video src="https://github.com/user-attachments/assets/fa13414a-9857-4758-9378-4430fc66925c" controls width="100%"></video>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <h4>🔄 Adaptive Local Planning</h4>
+      <h4> Adaptive Local Planning </h4>
       <video src="https://github.com/user-attachments/assets/872429d7-e9e8-496e-9328-a606a1c9695a" controls width="100%"></video>
     </td>
   </tr>
